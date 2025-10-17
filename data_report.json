@@ -4,13 +4,13 @@
     "result": {
         "products": {
             "missing_value": {
-                "product_id": "0",
-                "product_name": "0",
-                "category": "0",
-                "unit_price": "0",
-                "cost_price": "0",
-                "in_stock": "0",
-                "created_at": "0"
+                "product_id": 0,
+                "product_name": 0,
+                "category": 0,
+                "unit_price": 0,
+                "cost_price": 0,
+                "in_stock": 0,
+                "created_at": 0
             },
             "date_validity": {},
             "numeric_validity": {
@@ -24,12 +24,12 @@
         },
         "inventory_tracking": {
             "missing_value": {
-                "tracking_id": "0",
-                "product_id": "0",
-                "quantity_change": "0",
-                "change_date": "0",
-                "reason": "0",
-                "created_at": "0"
+                "tracking_id": 0,
+                "product_id": 0,
+                "quantity_change": 0,
+                "change_date": 0,
+                "reason": 0,
+                "created_at": 0
             },
             "date_validity": {
                 "change_date": "There's invalid Date Data"
@@ -43,14 +43,14 @@
         },
         "orders": {
             "missing_value": {
-                "order_id": "0",
-                "employee_id": "0",
-                "customer_id": "250",
-                "order_date": "0",
-                "total_amount": "0",
-                "payment_method": "0",
-                "order_status": "0",
-                "created_at": "0"
+                "order_id": 0,
+                "employee_id": 0,
+                "customer_id": 250,
+                "order_date": 0,
+                "total_amount": 0,
+                "payment_method": 0,
+                "order_status": 0,
+                "created_at": 0
             },
             "date_validity": {
                 "order_date": "Clean"
@@ -64,13 +64,13 @@
         },
         "order_details": {
             "missing_value": {
-                "order_detail_id": "0",
-                "order_id": "0",
-                "product_id": "0",
-                "quantity": "0",
-                "unit_price": "0",
-                "subtotal": "0",
-                "created_at": "0"
+                "order_detail_id": 0,
+                "order_id": 0,
+                "product_id": 0,
+                "quantity": 0,
+                "unit_price": 0,
+                "subtotal": 0,
+                "created_at": 0
             },
             "date_validity": {},
             "numeric_validity": {
@@ -86,13 +86,13 @@
         },
         "customers": {
             "missing_value": {
-                "customer_id": "0",
-                "first_name": "0",
-                "last_name": "0",
-                "email": "0",
-                "phone": "4",
-                "loyalty_points": "0",
-                "created_at": "0"
+                "customer_id": 0,
+                "first_name": 0,
+                "last_name": 0,
+                "email": 0,
+                "phone": 4,
+                "loyalty_points": 0,
+                "created_at": 0
             },
             "date_validity": {},
             "numeric_validity": {
@@ -104,13 +104,13 @@
         },
         "employees": {
             "missing_value": {
-                "employee_id": "0",
-                "first_name": "0",
-                "last_name": "0",
-                "hire_date": "0",
-                "role": "0",
-                "email": "0",
-                "created_at": "0"
+                "employee_id": 0,
+                "first_name": 0,
+                "last_name": 0,
+                "hire_date": 0,
+                "role": 0,
+                "email": 0,
+                "created_at": 0
             },
             "date_validity": {},
             "numeric_validity": {},
